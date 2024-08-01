@@ -1,0 +1,21 @@
+@import url(01-SETTINGS/variables.css);
+@import url(01-SETTINGS/icons.css);
+
+@import url(03-GENERIC/reset.css);
+@import url(03-GENERIC/layout.css);
+
+@import url(04-ELEMENTS/button.css);
+
+@import url(05-OBJECTS/nav.css);
+@import url(05-OBJECTS/news.css);
+@import url(05-OBJECTS/slider.css);
+@import url(05-OBJECTS/releases.css);
+@import url(05-OBJECTS/opinions.css);
+@import url(05-OBJECTS/blog.css);
+@import url(05-OBJECTS/footer.css);
+@import url(05-OBJECTS/filminfo.css);
+@import url(05-OBJECTS/fixedpanel.css);
+@import url(05-OBJECTS/filmstats.css);
+@import url(05-OBJECTS/addpanel.css);
+@import url(05-OBJECTS/actors.css);
+@import url(05-OBJECTS/comments.css);
